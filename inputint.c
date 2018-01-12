@@ -1,9 +1,9 @@
  // ******* inputint.c *******
  #include <stdio.h>
- #include <time.h>
 		int main()
 		{
 			int number, x, y;
+			
 			printf("Type in a number \n");
 			scanf("%d", &number);
 			printf("The number you typed was %d/n", number);
