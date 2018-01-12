@@ -1,0 +1,11 @@
+ // ******* helloworld.c *******
+ // save file as helloworld.c
+ // compile $gcc helloworld.c  -o helloworld.o
+#include <stdio.h>
+#include <time.h>
+	
+int main(){
+	
+	printf ("hello world /n/n");
+	return 0;
+}
